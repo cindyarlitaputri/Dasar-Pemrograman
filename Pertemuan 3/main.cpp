@@ -8,6 +8,10 @@ int main()
     cout << "Cindy Arlita Putri" << endl;
     printf ("A11.2022.14154");
     cout << endl;
+    /*
+    integer
+    printf
+    */
 
     int u = 18;
     float t = 160.5;
